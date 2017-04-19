@@ -8,3 +8,4 @@ image:
   feature: soft-trees.jpg
 ---
 
+我们致力分享有关善的知识、素食。
