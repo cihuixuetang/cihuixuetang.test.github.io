@@ -28,7 +28,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 关于我们About Us
+  - title: 关于我们
     url: /about
   #- title: Github
   #  url: https://github.com/ColeTownsend/Balzac-for-Jekyll
@@ -40,7 +40,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kuala_Lumpur
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
