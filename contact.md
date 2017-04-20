@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 permalink: /contact/index.html
 title: 联系我们
 description: 如有任何疑问，欢迎联系我们。
