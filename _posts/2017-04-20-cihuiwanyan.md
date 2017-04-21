@@ -4,6 +4,7 @@ title: "2017慈晖晚宴"
 description: "2017慈晖晚宴"
 category: articles
 tags: [sample post, readability, test]
+comments: true
 ---
 
 ### 2017慈晖晚宴
