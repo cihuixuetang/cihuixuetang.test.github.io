@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "2017慈晖晚宴"
-description: "2017慈晖晚宴"
+description: "筹募宏道基金"
 category: articles
-tags: 
 comments: true
-image：
-	feature:"https://goo.gl/A0uIUM"
 ---
 
 [25日讯] 
