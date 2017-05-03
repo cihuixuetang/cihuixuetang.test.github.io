@@ -21,6 +21,9 @@ tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
 
+# Google services
+google_analytics: UA-98455576-1
+
 # Open Graph customization
 opengraph:
   locale:           en_US
